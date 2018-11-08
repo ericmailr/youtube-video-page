@@ -1,0 +1,41 @@
+nav {
+    float: left;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+nav ul li {
+    float: left;
+    width: 11%;
+}
+
+nav ul li a {
+    padding: 8px;
+}
+
+article {
+    float: left;
+    width: 66%;
+}
+
+aside {
+    float: right;
+    width: 33%;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+h3 {
+    padding-left: 40px;
+}
+
+#search {
+    width: 20%;
+}
